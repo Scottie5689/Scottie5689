@@ -1,17 +1,5 @@
+Hello, I am Scott. I am currently working full-time as the Marketing Director at Sierra-Olympic Technologies. I code, design and build brands. However, I am not currently taking on freelance work. After years of hard work and stress, I am narrowing my focus to the projects that make me happy. Life is good, life is short, make sure you’re living it right.
 
-Hello, I am Scott. I specialize in frontend web development, custom WordPress themes and ADA compliance. I work full time as Web Developer and Marketing Specialists for Sierra Olympic.  I have worked with many different CMS, LMS, SaaS products, and technical coding languages. Please [say hello](https://svport.tech/say-hello/) if you would like to know more.
-
-- 🤔 I’m looking for help with .go.
 - 💬 Ask me about WordPress
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I :heart: :boat:
-
-<!--
-**Scottie5689/Scottie5689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
