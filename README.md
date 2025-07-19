@@ -1,1 +1,1 @@
-Hello, I am Scott. I am currently working full-time as the Marketing Director at Sierra-Olympia Technologies. I code, design, build brands and marketing teams. I am currently focusing on a small amount of projects.
+Hello, I am Scott. I help companies enhance the usability, appeal, and impact of their digital brand presence with code and design.
