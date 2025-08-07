@@ -4,6 +4,7 @@ I help companies enhance the usability, appeal, and impact of their digital bran
 
 ## Education
 BFA: Graphic Design
+
 Columbia College Chicago
 
 ## Skills
