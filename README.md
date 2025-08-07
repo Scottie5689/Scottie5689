@@ -10,7 +10,7 @@ Columbia College Chicago
 ## Skills
 <ul>
   <li>Programming Language: Javascript, PHP, Python</li>
-  <li>Frameworks: React, Next.js, Larvel, Flaskr</li>
+  <li>Frameworks: React, Next.js, Laravel, Flaskr</li>
   <li>CSS Frameworks: Tailwinds, Bootstrap</li>
   <li>Bundlers: Vite, Webpack, Gulp</li>
   <li>Accessibility: WCAG AA</li>
