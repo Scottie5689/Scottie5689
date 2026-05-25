@@ -2,22 +2,19 @@
 
 I help companies enhance the usability, appeal, and impact of their digital brand presence with code and design.
 
-
---------------------------------------------
-------   [https://scottv.tech](ScottV.tech)   ------
---------------------------------------------
-
-
+-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\
+-\-\-\-**[ScottV.tech](https://scottv.tech)**\-\-\-\-\-\
+-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
 ## Education
 BFA: Graphic Design
+
 Columbia College Chicago
 
 ## Skills
-<ul>
-  <li>Programming Language: Javascript, PHP, Python</li>
-  <li>Frameworks: React, Next.js, Laravel, Flaskr</li>
-  <li>CSS Frameworks: Tailwinds, Bootstrap</li>
-  <li>Bundlers: Vite, Webpack, Gulp</li>
-  <li>Accessibility: WCAG AA</li>
-</ul>
+- Programming Language: Javascript, PHP, Python
+- Frameworks: React, Next.js, Laravel, Flaskr
+- CSS Frameworks: Tailwinds, Bootstrap
+- Bundlers: Vite, Webpack, Gulp
+- Accessibility: WCAG AA
+- Design: Adobe Creative Suite, Figma
