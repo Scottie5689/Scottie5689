@@ -2,9 +2,7 @@
 
 I help companies enhance the usability, appeal, and impact of their digital brand presence with code and design.
 
--\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\
--\-\-\-**[ScottV.tech](https://scottv.tech)**\-\-\-\-\-\
--\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+**[ScottV.tech](https://scottv.tech)**
 
 ## Education
 BFA: Graphic Design
