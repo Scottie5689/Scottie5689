@@ -2,9 +2,15 @@
 
 I help companies enhance the usability, appeal, and impact of their digital brand presence with code and design.
 
+
+--------------------------------------------
+------   [https://scottv.tech](ScottV.tech)   ------
+--------------------------------------------
+
+
+
 ## Education
 BFA: Graphic Design
-
 Columbia College Chicago
 
 ## Skills
